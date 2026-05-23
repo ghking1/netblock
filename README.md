@@ -1,5 +1,5 @@
 # netblock
-Command line tools for windows network block manage using WFP
+Command line tools for windows network block manage using WFP, no backend service needed.
 
 ## Usage
 
@@ -33,7 +33,7 @@ Note: 'add' requires at least one filter condition (-p, -a, -l, or -r).
 ## Features
 
 * Using windows WFP directly
-* No backend service need
+* No backend service needed
 * AI friendly command line
 
 

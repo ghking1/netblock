@@ -1,0 +1,10 @@
+*
+*/**
+
+!.gitignore
+!netblock.cpp
+!netblock.sln
+!netblock.vcxproj
+!netblock.vcxproj.filters
+!netblock.vcxproj.user
+!README.md

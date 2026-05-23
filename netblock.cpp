@@ -90,7 +90,7 @@ static void PrintUsage()
     wprintf(L"  -n <name>         Rule name (for later management; default: auto-generated UUID)\n");
     wprintf(L"  -p <path>         Program absolute path (include .exe; default: all programs)\n");
     wprintf(L"  -a <ip/cidr>      Remote IP address (IPv4/IPv6, e.g. 192.168.1.1 or 2001:db8::/32)\n");
-    wprintf(L"  -l <port|range>   Local port (e.g. 80, 8000-9000, 81,82,83, 81,82-85; default: all)\n");
+    wprintf(L"  -l <port|range>   Local port (e.g. 80; 8000-9000; 81,82,83; 81,82-85; default: all)\n");
     wprintf(L"  -r <port|range>   Remote port (same format as -l; default: all)\n");
     wprintf(L"  -e <block|allow>  Action (default: block)\n");
     wprintf(L"  -d <in|out|both>  Traffic direction (default: both)\n");

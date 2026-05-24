@@ -32,10 +32,9 @@ Note: 'add' requires at least one filter condition (-p, -a, -l, or -r).
 
 ## Features
 
-* Using windows WFP directly
-* No backend service needed
-* AI friendly command line
-
+- AI-friendly command-line interface
+- Directly uses low-level Windows APIs, with no backend service required
+- Does not rely on Windows Firewall, and remains effective even when the firewall is disabled
 
 ## License
 

@@ -1,6 +1,8 @@
 # netblock
 Command line tools for windows network block manage using WFP, no backend service needed.
 
+download from: https://github.com/ghking1/netblock/releases
+
 ## Usage
 
 C:\Windows\System32>netblock.exe -h
